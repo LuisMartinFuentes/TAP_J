@@ -1,0 +1,3 @@
+Windows,S,,,8
+Linux,S,,,12
+Windows,S,S,S,6
